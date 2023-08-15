@@ -30,7 +30,7 @@ class _HomePageStateDesktop extends State<HomePageDesktop> {
           child: Container(
             decoration: BoxDecoration(
               image: DecorationImage(
-                  image: AssetImage('assets/images/Background_Image.jpeg'),
+                  image: AssetImage('assets/images/Untitled design.png'),
                   fit: BoxFit.cover
               )
             ),
@@ -41,15 +41,15 @@ class _HomePageStateDesktop extends State<HomePageDesktop> {
                 Row(
                   mainAxisAlignment: MainAxisAlignment.spaceBetween,
                   children: [
-                    Container(
-                      height: 150.sp,
-                      width: 300.sp,
-                      decoration: BoxDecoration(
-                        image: DecorationImage(
-                            image: AssetImage('assets/logos/astro_logo.png')
-                        )
-                      ),
-                    ),
+                    // Container(
+                    //   height: 150.sp,
+                    //   width: 300.sp,
+                    //   decoration: BoxDecoration(
+                    //     image: DecorationImage(
+                    //         image: AssetImage('assets/logos/astro_logo.png')
+                    //     )
+                    //   ),
+                    // ),
                     Container(
                       height: 150.sp,
                       width: 300.sp,
