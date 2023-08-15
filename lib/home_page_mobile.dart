@@ -31,7 +31,7 @@ class _HomePageStateMobile extends State<HomePageMobile> {
             child: Container(
               decoration: BoxDecoration(
                   image: DecorationImage(
-                      image: AssetImage('assets/images/Background_Image.jpeg'),
+                      image: AssetImage('assets/images/Untitled design.png'),
                       fit: BoxFit.cover
                   )
               ),
@@ -42,15 +42,15 @@ class _HomePageStateMobile extends State<HomePageMobile> {
                   Row(
                     mainAxisAlignment: MainAxisAlignment.spaceBetween,
                     children: [
-                      Container(
-                        height: 100.sp,
-                        width: 120.sp,
-                        decoration: BoxDecoration(
-                            image: DecorationImage(
-                                image: AssetImage('assets/logos/astro_logo.png')
-                            )
-                        ),
-                      ),
+                      // Container(
+                      //   height: 100.sp,
+                      //   width: 120.sp,
+                      //   decoration: BoxDecoration(
+                      //       image: DecorationImage(
+                      //           image: AssetImage('assets/logos/astro_logo.png')
+                      //       )
+                      //   ),
+                      // ),
                       Container(
                         height: 100.sp,
                         width: 120.sp,
