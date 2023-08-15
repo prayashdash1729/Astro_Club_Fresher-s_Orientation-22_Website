@@ -191,7 +191,7 @@ class _HomePageStateDesktop extends State<HomePageDesktop> {
                         ),
                         ElevatedButton(
                           onPressed: () {
-                            const url = "https://chat.whatsapp.com/IxV1CI7uLTW1wvmcLxgp9e";
+                            const url = "https://chat.whatsapp.com/DstGcyy6j0hJmiRvRAQKOV";
                             launchURL(url);
                           },
                           style: ButtonStyle(
